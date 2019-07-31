@@ -7,4 +7,4 @@ How to start the node server
 
 Note.
 I was able to start the Node server using WebSocket API and connect the dots and couldn't get others things done. 
-Thank for reviewing and your consideration.
+Thank for reviewing!
